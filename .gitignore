@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+faiss_index_ma_playbook/
+.env
+.DS_Store
